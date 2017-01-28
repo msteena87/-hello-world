@@ -1,2 +1,5 @@
 # -hello-world
-intro
+
+Hi Everyone!
+
+Just exploring something new!
